@@ -1,1 +1,1 @@
-https://mchaudhry9.github.io/personal-website/
+http://mchaudhry.me/
